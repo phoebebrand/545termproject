@@ -1,0 +1,21 @@
+**I am very unclear on whether I am doing this correctly and have COVID so my brain is not working**
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.4/metadata.xsd">
+  <identifier identifierType="DOI">_______/foo</identifier>
+  <creators>
+    <creator
+      <creatorName xml:lang="en" nameType="Organizational">U.S. Department of Agriculture</creatorName>
+		  <nameIdentifier schemeURI="https://ror.org/" nameIdentifierScheme="ROR ,→">____urlror_____>
+    </creator>
+  </creators>
+  <titles>
+    <title xml:lang="en">October 2023 Keydata Report</title>
+  </titles>
+***there are subtitle I could add from actual pdf but not sure what to include**
+  <publisher xml:lang="en">U.S. Department of Agriculture Food and Nutrition Service</publisher>
+**actual unit of USDA/FNS is unclear
+  <publicationYear>2024</publicationYear>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+**could also be "Report" resource type
+</resource>
