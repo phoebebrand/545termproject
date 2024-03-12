@@ -8,5 +8,4 @@ List of files:
 
 -keydata-october-2023.xlsx
 
-- DataCite Metadata Schema XML: This file contains the DataCite Metadata Schema for the above keydata documents.
-- 
+-DataCite Metadata Schema XML: This file contains the DataCite Metadata Schema for the above keydata documents.
