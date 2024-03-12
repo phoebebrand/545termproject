@@ -4,7 +4,7 @@ Term Project Repository for 545 Data Curation Principles
 
 List of files:
 
--Final Report: This file contains a Data and Metadata Profile and Repository Profile, as well as a data citation, consideration for long-term preservation, copyright considerations, and a statement on human subject considerations. 
+-Final Report(3): This file contains a Data and Metadata Profile and Repository Profile, as well as a data citation, consideration for long-term preservation, copyright considerations, and a statement on human subject considerations. 
 
 -keydata-october-2023.pdf
 
